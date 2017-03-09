@@ -14,12 +14,10 @@ figure {
 
 .nav {
   text-align: center;
-  margin-top: 1.5rem;
 }
 
 .logo {
   max-width: 256px;
-  margin: 0 auto;
 }
 
 .masthead {
@@ -28,22 +26,12 @@ figure {
 
 .nav a {
   display: inline-block;
-  margin: 0 0.4em;
-}
-
-@media only screen and (min-width 50em) {
-
-  .logo {
-    margin: 0;
-  }
-
 }
 
 @media only screen and (min-width 50em) {
 
   .nav {
     text-align: right;
-    margin-top: 0;
   }
 
 }
