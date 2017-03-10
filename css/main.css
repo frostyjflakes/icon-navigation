@@ -4,39 +4,37 @@ html {
   color: #fff;
 }
 
-figcaption {
-  color: #fff;
+.btn {
+  background-color: #15114c;
+  border: 0;
+  border-radius: 10px;
 }
 
-figure {
-  background-color: #1c164b;
-}
-
-.nav {
-  text-align: center;
-}
-
-.logo {
-  max-width: 256px;
+.btn:hover {
+  background-color: #fff;
+  color: #423ca3;
 }
 
 .masthead {
 
 }
 
-.nav a {
-  display: inline-block;
+.logo {
+
 }
 
-li {
-  background-color: #1c164b;
-  border-radius: 10px;
+.nav {
+
 }
 
-@media only screen and (min-width 50em) {
+@media only screen and (min-width 60em) {
 
-  .nav {
-    text-align: right;
-  }
+
+
+}
+
+@media only screen and (min-width 60em) {
+
+
 
 }
