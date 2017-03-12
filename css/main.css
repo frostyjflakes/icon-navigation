@@ -1,6 +1,5 @@
 html {
-  font-family: 'Abhaya Libre', serif;
-  background-color: #423ca3;
+  font-family: "Abhaya Libre", serif;
   color: #fff;
 }
 
@@ -16,25 +15,25 @@ html {
 }
 
 .masthead {
-
+  background-color: #423ca3;
 }
 
 .logo {
-
+  text-align: center;
 }
 
 .nav {
-
+  text-align: center;
 }
 
-@media only screen and (min-width 60em) {
+@media only screen and (min-width: 60em) {
 
+  .logo {
+    text-align: left;
+  }
 
-
-}
-
-@media only screen and (min-width 60em) {
-
-
+  .nav {
+    text-align: right;
+  }
 
 }
